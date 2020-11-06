@@ -5,10 +5,17 @@
 1. [ ] Error Handlers
 2. [ ] Modules & Route
 3. [ ] Layout
+4. [ ] I18n Support
 
 ### 1. Route
 
 - https://angular-2-training-book.rangle.io/routing/child_routes
+
+### 4. I18n Support
+
+```bash
+
+```
 
 ## Architecture
 
@@ -40,6 +47,10 @@ return () => new Promise<any>((resolve: any) => {
 
 - https://itnext.io/how-does-app-initializer-work-so-what-do-you-need-to-know-about-dynamic-configuration-in-angular-718e7c345971
 - https://www.tektutorialshub.com/angular/angular-how-to-use-app-initializer/
+
+### Guarding your angular modules
+
+- https://timdeschryver.dev/blog/guarding-your-angular-modules
 
 ### SlashScreen
 
